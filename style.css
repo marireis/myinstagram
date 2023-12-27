@@ -1,3 +1,13 @@
+.img-logo{
+    max-width: 130px;
+    max-height: 80px;
+}
+
+.icons-header{
+    width: 30%;
+} 
+
+
 
 .body{
     background-color: #fafafa;
@@ -119,9 +129,3 @@
     border-top-right-radius: 0rem !important;
 }
 
-.card-img-top-ft{
-
-    width: 260px !important;
-    height: 260px !important;
-
-}
